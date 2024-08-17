@@ -1,0 +1,69 @@
+.contener{
+    background-color: rgb(247, 243, 243);
+    color: #fff;
+    margin: 10px 150px;
+    /* width: 110vh; */
+}
+header{
+    background-color: #5dade2;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.maicontent{
+    display: flex;
+}
+.extra{
+    text-align: center;
+    font-size: 25px;
+    flex: 2;
+}
+.hero{
+    text-align: center;
+    font-size: 25px;
+    flex: 1;
+    margin: 0px 35px 0px 0px;
+}
+.her{
+    flex: 1;
+    background-color: #d7bde2;
+    height: 35vh;
+}
+.side{
+    background-color: #1e8449 ;
+    height: 55vh;
+}
+.main{
+    background-color: #f39c12;
+    height: 58vh;
+}
+.extracontent{
+    background-color: #707b7c;
+    height: 32vh;
+}
+.releted{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 25px;
+    display: flex;
+}
+.img{
+    flex: 3;
+    background-color: #2ecc71;
+    height: 20vh;
+}
+.posis{
+    margin: 0px 0 0 30px ;
+    flex: 1;
+    background-color: #e6b0aa;
+}
+footer{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    background-color: #d68910;
+    height: 15vh;
+}
